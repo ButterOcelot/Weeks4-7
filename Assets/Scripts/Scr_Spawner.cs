@@ -1,0 +1,46 @@
+using UnityEngine;
+
+public class Scr_Spawner : MonoBehaviour
+{
+    public GameObject objectToSpawn;
+
+    public float waitDuration;
+    public float destroyDuration;
+
+    public float pacerSpeed;
+    public Color pacerColour;
+
+    float waitProgress = 0f;
+    float destroyProgress = 0f;
+
+    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    void Start()
+    {
+        
+        
+
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        waitProgress += Time.deltaTime;
+        if(waitProgress > waitDuration)
+        {
+            GameObject spawnedObject = Instantiate(objectToSpawn, transform.position, Quaternion.identity);
+
+            Scr_Pacer spawnedPacer = spawnedObject.GetComponent<Scr_Pacer>();
+            spawnedPacer.speed = pacerSpeed;
+
+            SpriteRenderer spawnedRender = spawnedObject.GetComponent<SpriteRenderer>();
+            spawnedRender.color = pacerColour;
+
+
+            Destroy(spawnedObject, destroyDuration);
+
+            waitProgress = 0f;
+        }
+
+       
+    }
+}
