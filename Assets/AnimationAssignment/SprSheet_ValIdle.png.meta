@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: d394e355e1c6be141ab76cec096c66ae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4676193831800316970
+    second: ValIdleAnimation-Sheet_0
+  - first:
+      213: 2508141811964944266
+    second: ValIdleAnimation-Sheet_1
+  - first:
+      213: -9220959630090797747
+    second: ValIdleAnimation-Sheet_2
+  - first:
+      213: -710916597961261233
+    second: ValIdleAnimation-Sheet_3
+  - first:
+      213: 6048881742449172702
+    second: ValIdleAnimation-Sheet_4
+  - first:
+      213: 1496968649328809019
+    second: ValIdleAnimation-Sheet_5
+  - first:
+      213: 2386911398604066991
+    second: ValIdleAnimation-Sheet_6
+  - first:
+      213: -4494120804950253675
+    second: ValIdleAnimation-Sheet_7
+  - first:
+      213: -1690146526502635614
+    second: ValIdleAnimation-Sheet_8
+  - first:
+      213: -6381976517565540177
+    second: ValIdleAnimation-Sheet_9
+  - first:
+      213: 3715022597151743028
+    second: ValIdleAnimation-Sheet_10
+  - first:
+      213: -6231548020172931517
+    second: ValIdleAnimation-Sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ValIdleAnimation-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 2
+        width: 36
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db5baa4c72da1fb0800000000000000
+      internalID: -4676193831800316970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValIdleAnimation-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 2
+        width: 36
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f997470b5bec220800000000000000
+      internalID: 2508141811964944266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValIdleAnimation-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 2
+        width: 36
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d78383212980080800000000000000
+      internalID: -9220959630090797747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValIdleAnimation-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 2
+        width: 36
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ff699ee115226f0800000000000000
+      internalID: -710916597961261233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValIdleAnimation-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 2
+        width: 36
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0670b75e1f1f350800000000000000
+      internalID: 6048881742449172702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValIdleAnimation-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2
+        width: 36
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b34d3272e0d46c410800000000000000
+      internalID: 1496968649328809019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValIdleAnimation-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 2
+        width: 36
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa050284543002120800000000000000
+      internalID: 2386911398604066991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValIdleAnimation-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 2
+        width: 36
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f5f3350fca1a1c0800000000000000
+      internalID: -4494120804950253675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValIdleAnimation-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 2
+        width: 36
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7337d50b46b88e0800000000000000
+      internalID: -1690146526502635614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValIdleAnimation-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 2
+        width: 36
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa81f91ab2aae67a0800000000000000
+      internalID: -6381976517565540177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValIdleAnimation-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 2
+        width: 36
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c57cb7e596e8330800000000000000
+      internalID: 3715022597151743028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValIdleAnimation-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 2
+        width: 36
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ebdc087181589a0800000000000000
+      internalID: -6231548020172931517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ValIdleAnimation-Sheet_0: -4676193831800316970
+      ValIdleAnimation-Sheet_1: 2508141811964944266
+      ValIdleAnimation-Sheet_10: 3715022597151743028
+      ValIdleAnimation-Sheet_11: -6231548020172931517
+      ValIdleAnimation-Sheet_2: -9220959630090797747
+      ValIdleAnimation-Sheet_3: -710916597961261233
+      ValIdleAnimation-Sheet_4: 6048881742449172702
+      ValIdleAnimation-Sheet_5: 1496968649328809019
+      ValIdleAnimation-Sheet_6: 2386911398604066991
+      ValIdleAnimation-Sheet_7: -4494120804950253675
+      ValIdleAnimation-Sheet_8: -1690146526502635614
+      ValIdleAnimation-Sheet_9: -6381976517565540177
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
