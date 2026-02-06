@@ -5,6 +5,7 @@ public class Scr_SushiClock : MonoBehaviour
 {
     public Slider sushiSlider;
     public float clockDuration;
+    public GameObject warperObject;
     
     float timeWaiting = 0f;
 
@@ -23,8 +24,24 @@ public class Scr_SushiClock : MonoBehaviour
         if (timeWaiting > clockDuration)
         {
             timeWaiting = 0f;
+
+            bool shouldTurnOn = !warperObject.activeInHierarchy;
+            bool shouldTurnOff = warperObject.activeInHierarchy;
+
+            if (shouldTurnOn == true)
+            {
+                warperObject.SetActive(true);
+            }
+
+            if (shouldTurnOff)
+            {
+                warperObject.SetActive(false);
+            }
+
         }
 
+        
+       
 
     }
 }
