@@ -2,9 +2,9 @@ using UnityEngine;
 
 public class Scr_Player : MonoBehaviour
 {
-    float horizontal;
+    public float horizontal;
     float speed = 8f;
-    float jumpingPower = 14f;
+    float jumpingPower = 7f;
     bool isFacingRight = true;
 
     public Rigidbody2D rb;
@@ -47,11 +47,19 @@ public class Scr_Player : MonoBehaviour
 
     private void Flip()
     {
-        if (isFacingRight && horizontal < 0f || isFacingRight && horizontal > 0f)
+        if (isFacingRight == true && horizontal == -1f)
         {
             isFacingRight = false;
             Vector3 localeScale = transform.localScale;
-            localeScale.x *= -1f;
+            localeScale.x = -localeScale.x;
+            transform.localScale = localeScale;
+        }
+
+        if(isFacingRight == false && horizontal == 1f)
+        {
+            isFacingRight = true;
+            Vector3 localeScale = transform.localScale;
+            localeScale.x = -localeScale.x;
             transform.localScale = localeScale;
         }
     }

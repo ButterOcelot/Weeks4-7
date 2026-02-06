@@ -273,1101 +273,309 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ValChargeAnimation-Sheet_0
+      name: SprSheet_ValTaunt_0
       rect:
         serializedVersion: 2
-        x: 1174
-        y: 2
-        width: 94
-        height: 119
+        x: 0
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 50991f6c23c274700800000000000000
-      internalID: 524436478209661189
+      spriteID: 7d0fb20faff90074ab83a496f51bdb9b
+      internalID: -1736431388
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ValChargeAnimation-Sheet_1
+      name: SprSheet_ValTaunt_1
       rect:
         serializedVersion: 2
-        x: 1305
-        y: 107
-        width: 38
-        height: 21
+        x: 128
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6ad671a93bd074f50800000000000000
-      internalID: 6865471221985144230
+      spriteID: ad49038aeeb92d24ea8cfe0c8f72ed93
+      internalID: -1451608830
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ValChargeAnimation-Sheet_2
+      name: SprSheet_ValTaunt_2
       rect:
         serializedVersion: 2
-        x: 1418
-        y: 102
-        width: 59
-        height: 25
+        x: 256
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 114b18ec9f252ff50800000000000000
-      internalID: 6913679610832073745
+      spriteID: bcc2ea1045dd05a438d4283afcfe5b77
+      internalID: 648712419
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ValChargeAnimation-Sheet_3
+      name: SprSheet_ValTaunt_3
       rect:
         serializedVersion: 2
-        x: 1548
-        y: 113
-        width: 36
-        height: 14
+        x: 384
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ffb17706052e7b7d0800000000000000
-      internalID: -2902602599973315585
+      spriteID: b7dfc166a991acb489df182e52b4a628
+      internalID: -1623709952
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ValChargeAnimation-Sheet_4
+      name: SprSheet_ValTaunt_4
       rect:
         serializedVersion: 2
-        x: 1684
-        y: 119
-        width: 9
-        height: 9
+        x: 512
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 5a7568bab2d19f040800000000000000
-      internalID: 4681805361026848677
+      spriteID: 929d3deb1d6cf44478bb90431d081517
+      internalID: 1078185990
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ValChargeAnimation-Sheet_5
+      name: SprSheet_ValTaunt_5
       rect:
         serializedVersion: 2
-        x: 1705
-        y: 121
-        width: 12
-        height: 7
+        x: 640
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c15733d5f7ea98480800000000000000
-      internalID: -8896387726845971172
+      spriteID: 3bcc77735e8719e43a2da9384c1ee819
+      internalID: 1235274769
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ValChargeAnimation-Sheet_6
+      name: SprSheet_ValTaunt_6
       rect:
         serializedVersion: 2
-        x: 1777
-        y: 114
-        width: 7
-        height: 14
+        x: 768
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6f1b8ff7197269250800000000000000
-      internalID: 5950987463487435254
+      spriteID: b154a84435e995e45b38508094efe6cb
+      internalID: 1812238940
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ValChargeAnimation-Sheet_7
+      name: SprSheet_ValTaunt_7
       rect:
         serializedVersion: 2
-        x: 49
-        y: 2
-        width: 36
-        height: 110
+        x: 896
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 59d1e31081c713360800000000000000
-      internalID: 7147630526155595157
+      spriteID: 8d249caa3743d5b44992b86dddbb8c9b
+      internalID: 1875357698
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ValChargeAnimation-Sheet_8
+      name: SprSheet_ValTaunt_8
       rect:
         serializedVersion: 2
-        x: 177
-        y: 2
-        width: 36
-        height: 110
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2b5060b3c915c36c0800000000000000
-      internalID: -4162362224150182478
+      spriteID: bd2cf0135f14f8e41b2b0cc0bf42a7a4
+      internalID: 279156172
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ValChargeAnimation-Sheet_9
+      name: SprSheet_ValTaunt_9
       rect:
         serializedVersion: 2
-        x: 305
-        y: 2
-        width: 36
-        height: 110
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 89fc8d55a53595c50800000000000000
-      internalID: 6654441571869052824
+      spriteID: ea7c97f9236863c4d80ff9fa362dde7c
+      internalID: 31495078
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ValChargeAnimation-Sheet_10
+      name: SprSheet_ValTaunt_10
       rect:
         serializedVersion: 2
-        x: 433
-        y: 2
-        width: 36
-        height: 110
+        x: 1280
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 8675a470538318340800000000000000
-      internalID: 4864230872943581032
+      spriteID: ab9c19f21f6f191499927757cd6191b6
+      internalID: -2007911558
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ValChargeAnimation-Sheet_11
+      name: SprSheet_ValTaunt_11
       rect:
         serializedVersion: 2
-        x: 561
-        y: 2
-        width: 36
-        height: 110
+        x: 1408
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f11d33405af8052d0800000000000000
-      internalID: -3291973388704952033
+      spriteID: 7f52c6b506d83234fa06c88aa6098574
+      internalID: -1817884374
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ValChargeAnimation-Sheet_12
+      name: SprSheet_ValTaunt_12
       rect:
         serializedVersion: 2
-        x: 689
-        y: 2
-        width: 36
-        height: 110
+        x: 1536
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 78f665101dde2edf0800000000000000
-      internalID: -152297955450785913
+      spriteID: 27fc1151ffd1b9d48b3ba479836479db
+      internalID: 1957000525
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ValChargeAnimation-Sheet_13
+      name: SprSheet_ValTaunt_13
       rect:
         serializedVersion: 2
-        x: 817
-        y: 2
-        width: 36
-        height: 110
+        x: 1664
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 7a6372f3e4e59f360800000000000000
-      internalID: 7203892769115813543
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ValChargeAnimation-Sheet_14
-      rect:
-        serializedVersion: 2
-        x: 942
-        y: 2
-        width: 50
-        height: 113
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: dd4044372f3b36160800000000000000
-      internalID: 7017650498270659805
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ValChargeAnimation-Sheet_15
-      rect:
-        serializedVersion: 2
-        x: 1058
-        y: 2
-        width: 73
-        height: 116
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c137021c8ba932ef0800000000000000
-      internalID: -134093445586193636
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ValChargeAnimation-Sheet_16
-      rect:
-        serializedVersion: 2
-        x: 1329
-        y: 2
-        width: 36
-        height: 110
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: aad75f36ab76b7640800000000000000
-      internalID: 5078767055028977066
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ValChargeAnimation-Sheet_17
-      rect:
-        serializedVersion: 2
-        x: 1363
-        y: 96
-        width: 40
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a5a1a812c74227ff0800000000000000
-      internalID: -39929331135669670
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ValChargeAnimation-Sheet_18
-      rect:
-        serializedVersion: 2
-        x: 1457
-        y: 2
-        width: 36
-        height: 110
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c4b931d6f9b3128a0800000000000000
-      internalID: -6331714045190366388
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ValChargeAnimation-Sheet_19
-      rect:
-        serializedVersion: 2
-        x: 1503
-        y: 98
-        width: 31
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 26080d9455eb426b0800000000000000
-      internalID: -5321919586125184926
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ValChargeAnimation-Sheet_20
-      rect:
-        serializedVersion: 2
-        x: 1585
-        y: 2
-        width: 36
-        height: 110
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: aef406a94e2917a10800000000000000
-      internalID: 1905465627894632426
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ValChargeAnimation-Sheet_21
-      rect:
-        serializedVersion: 2
-        x: 1640
-        y: 107
-        width: 17
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4daa8691168d2cff0800000000000000
-      internalID: -17213537006343468
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ValChargeAnimation-Sheet_22
-      rect:
-        serializedVersion: 2
-        x: 1669
-        y: 110
-        width: 16
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1a50b41509ac589d0800000000000000
-      internalID: -2772587274388699743
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ValChargeAnimation-Sheet_23
-      rect:
-        serializedVersion: 2
-        x: 1713
-        y: 2
-        width: 36
-        height: 110
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c80d47389b8a76bc0800000000000000
-      internalID: -3789875046681096052
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ValChargeAnimation-Sheet_24
-      rect:
-        serializedVersion: 2
-        x: 1644
-        y: 98
-        width: 20
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d9fbf9d9add8ff520800000000000000
-      internalID: 2738063068551430045
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ValChargeAnimation-Sheet_25
-      rect:
-        serializedVersion: 2
-        x: 1695
-        y: 88
-        width: 11
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bd1649e4d09bbc640800000000000000
-      internalID: 5101374469731279323
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ValChargeAnimation-Sheet_26
-      rect:
-        serializedVersion: 2
-        x: 1776
-        y: 101
-        width: 16
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9632c8f911e1fecb0800000000000000
-      internalID: -4832610814105214103
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ValChargeAnimation-Sheet_27
-      rect:
-        serializedVersion: 2
-        x: 1361
-        y: 76
-        width: 42
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4b53822c658349200800000000000000
-      internalID: 185835429904790964
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ValChargeAnimation-Sheet_28
-      rect:
-        serializedVersion: 2
-        x: 1494
-        y: 82
-        width: 37
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e30b7f828f08a1180800000000000000
-      internalID: -9143854290094804930
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ValChargeAnimation-Sheet_29
-      rect:
-        serializedVersion: 2
-        x: 1545
-        y: 65
-        width: 25
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 03d0af54657210d20800000000000000
-      internalID: 3242916458178153776
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ValChargeAnimation-Sheet_30
-      rect:
-        serializedVersion: 2
-        x: 1634
-        y: 85
-        width: 22
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 74a9619e6acfd1580800000000000000
-      internalID: -8854643498535183801
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ValChargeAnimation-Sheet_31
-      rect:
-        serializedVersion: 2
-        x: 1670
-        y: 83
-        width: 10
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c1492c638057a7980800000000000000
-      internalID: -8540385065215814628
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ValChargeAnimation-Sheet_32
-      rect:
-        serializedVersion: 2
-        x: 1773
-        y: 92
-        width: 19
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 527ec7be68b370d90800000000000000
-      internalID: -7131666034255403227
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ValChargeAnimation-Sheet_33
-      rect:
-        serializedVersion: 2
-        x: 1293
-        y: 57
-        width: 33
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f242b0f3a0602ffd0800000000000000
-      internalID: -2309777017810508753
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ValChargeAnimation-Sheet_34
-      rect:
-        serializedVersion: 2
-        x: 1415
-        y: 57
-        width: 28
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5e729cefe40407ef0800000000000000
-      internalID: -112519282658039835
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ValChargeAnimation-Sheet_35
-      rect:
-        serializedVersion: 2
-        x: 1643
-        y: 78
-        width: 19
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e55175cf1beb705f0800000000000000
-      internalID: -790453537928178338
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ValChargeAnimation-Sheet_36
-      rect:
-        serializedVersion: 2
-        x: 1780
-        y: 77
-        width: 12
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 168176edf62e91e80800000000000000
-      internalID: -8207279875805472671
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ValChargeAnimation-Sheet_37
-      rect:
-        serializedVersion: 2
-        x: 1359
-        y: 43
-        width: 36
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cc9c3997272dea800800000000000000
-      internalID: 625668787358910924
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ValChargeAnimation-Sheet_38
-      rect:
-        serializedVersion: 2
-        x: 1499
-        y: 50
-        width: 31
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 95fbc0068fffb1cf0800000000000000
-      internalID: -280349109552103591
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ValChargeAnimation-Sheet_39
-      rect:
-        serializedVersion: 2
-        x: 1634
-        y: 63
-        width: 22
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3649ed22ecbd26e30800000000000000
-      internalID: 4495397056463934563
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ValChargeAnimation-Sheet_40
-      rect:
-        serializedVersion: 2
-        x: 1690
-        y: 61
-        width: 8
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8d69ed16826f0a5e0800000000000000
-      internalID: -1900248389449247016
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ValChargeAnimation-Sheet_41
-      rect:
-        serializedVersion: 2
-        x: 1772
-        y: 64
-        width: 20
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 24efd7b68b64cd8b0800000000000000
-      internalID: -5126144517963121086
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ValChargeAnimation-Sheet_42
-      rect:
-        serializedVersion: 2
-        x: 1287
-        y: 31
-        width: 50
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 94e31d169b65b7ea0800000000000000
-      internalID: -5874005934764638647
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ValChargeAnimation-Sheet_43
-      rect:
-        serializedVersion: 2
-        x: 1419
-        y: 32
-        width: 41
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4e265e54b01a085a0800000000000000
-      internalID: -6521035190643105052
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ValChargeAnimation-Sheet_44
-      rect:
-        serializedVersion: 2
-        x: 1542
-        y: 43
-        width: 29
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f1c2b02ce39b2b650800000000000000
-      internalID: 6247259312310922271
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ValChargeAnimation-Sheet_45
-      rect:
-        serializedVersion: 2
-        x: 1640
-        y: 47
-        width: 20
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f48af23ce94002bd0800000000000000
-      internalID: -2657118700222568369
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ValChargeAnimation-Sheet_46
-      rect:
-        serializedVersion: 2
-        x: 1669
-        y: 44
-        width: 13
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 18213a9ff0b66eba0800000000000000
-      internalID: -6060038532223528319
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ValChargeAnimation-Sheet_47
-      rect:
-        serializedVersion: 2
-        x: 1778
-        y: 43
-        width: 14
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 756867ec2003e1dd0800000000000000
-      internalID: -2513518753414216105
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ValChargeAnimation-Sheet_48
-      rect:
-        serializedVersion: 2
-        x: 1557
-        y: 30
-        width: 18
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 19601ceb5d6c2bdd0800000000000000
-      internalID: -2471694624142326127
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ValChargeAnimation-Sheet_49
-      rect:
-        serializedVersion: 2
-        x: 1678
-        y: 19
-        width: 15
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 21511397b88ae3c30800000000000000
-      internalID: 4341092407818917138
+      spriteID: 199c8e712ed35034682186e3f7742cf9
+      internalID: 1762448974
       vertices: []
       indices: 
       edges: []
@@ -1376,7 +584,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 12926072c2729564188edeec0a7f0454
     internalID: 0
     vertices: []
     indices: 
@@ -1386,56 +594,20 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      ValChargeAnimation-Sheet_0: 524436478209661189
-      ValChargeAnimation-Sheet_1: 6865471221985144230
-      ValChargeAnimation-Sheet_10: 4864230872943581032
-      ValChargeAnimation-Sheet_11: -3291973388704952033
-      ValChargeAnimation-Sheet_12: -152297955450785913
-      ValChargeAnimation-Sheet_13: 7203892769115813543
-      ValChargeAnimation-Sheet_14: 7017650498270659805
-      ValChargeAnimation-Sheet_15: -134093445586193636
-      ValChargeAnimation-Sheet_16: 5078767055028977066
-      ValChargeAnimation-Sheet_17: -39929331135669670
-      ValChargeAnimation-Sheet_18: -6331714045190366388
-      ValChargeAnimation-Sheet_19: -5321919586125184926
-      ValChargeAnimation-Sheet_2: 6913679610832073745
-      ValChargeAnimation-Sheet_20: 1905465627894632426
-      ValChargeAnimation-Sheet_21: -17213537006343468
-      ValChargeAnimation-Sheet_22: -2772587274388699743
-      ValChargeAnimation-Sheet_23: -3789875046681096052
-      ValChargeAnimation-Sheet_24: 2738063068551430045
-      ValChargeAnimation-Sheet_25: 5101374469731279323
-      ValChargeAnimation-Sheet_26: -4832610814105214103
-      ValChargeAnimation-Sheet_27: 185835429904790964
-      ValChargeAnimation-Sheet_28: -9143854290094804930
-      ValChargeAnimation-Sheet_29: 3242916458178153776
-      ValChargeAnimation-Sheet_3: -2902602599973315585
-      ValChargeAnimation-Sheet_30: -8854643498535183801
-      ValChargeAnimation-Sheet_31: -8540385065215814628
-      ValChargeAnimation-Sheet_32: -7131666034255403227
-      ValChargeAnimation-Sheet_33: -2309777017810508753
-      ValChargeAnimation-Sheet_34: -112519282658039835
-      ValChargeAnimation-Sheet_35: -790453537928178338
-      ValChargeAnimation-Sheet_36: -8207279875805472671
-      ValChargeAnimation-Sheet_37: 625668787358910924
-      ValChargeAnimation-Sheet_38: -280349109552103591
-      ValChargeAnimation-Sheet_39: 4495397056463934563
-      ValChargeAnimation-Sheet_4: 4681805361026848677
-      ValChargeAnimation-Sheet_40: -1900248389449247016
-      ValChargeAnimation-Sheet_41: -5126144517963121086
-      ValChargeAnimation-Sheet_42: -5874005934764638647
-      ValChargeAnimation-Sheet_43: -6521035190643105052
-      ValChargeAnimation-Sheet_44: 6247259312310922271
-      ValChargeAnimation-Sheet_45: -2657118700222568369
-      ValChargeAnimation-Sheet_46: -6060038532223528319
-      ValChargeAnimation-Sheet_47: -2513518753414216105
-      ValChargeAnimation-Sheet_48: -2471694624142326127
-      ValChargeAnimation-Sheet_49: 4341092407818917138
-      ValChargeAnimation-Sheet_5: -8896387726845971172
-      ValChargeAnimation-Sheet_6: 5950987463487435254
-      ValChargeAnimation-Sheet_7: 7147630526155595157
-      ValChargeAnimation-Sheet_8: -4162362224150182478
-      ValChargeAnimation-Sheet_9: 6654441571869052824
+      SprSheet_ValTaunt_0: -1736431388
+      SprSheet_ValTaunt_1: -1451608830
+      SprSheet_ValTaunt_10: -2007911558
+      SprSheet_ValTaunt_11: -1817884374
+      SprSheet_ValTaunt_12: 1957000525
+      SprSheet_ValTaunt_13: 1762448974
+      SprSheet_ValTaunt_2: 648712419
+      SprSheet_ValTaunt_3: -1623709952
+      SprSheet_ValTaunt_4: 1078185990
+      SprSheet_ValTaunt_5: 1235274769
+      SprSheet_ValTaunt_6: 1812238940
+      SprSheet_ValTaunt_7: 1875357698
+      SprSheet_ValTaunt_8: 279156172
+      SprSheet_ValTaunt_9: 31495078
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
