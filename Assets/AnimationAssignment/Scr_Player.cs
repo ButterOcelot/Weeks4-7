@@ -1,4 +1,6 @@
 using UnityEngine;
+using UnityEngine.InputSystem;
+using UnityEngine.InputSystem.Controls;
 
 public class Scr_Player : MonoBehaviour
 {
@@ -10,6 +12,7 @@ public class Scr_Player : MonoBehaviour
     public Rigidbody2D rb;
     public Transform groundCheck;
     public LayerMask groundLayer;
+    public Animator animator;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -20,18 +23,64 @@ public class Scr_Player : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+
+       
+        
         horizontal = Input.GetAxisRaw("Horizontal");
+
+        if (IsGrounded() && horizontal == 1f)
+            {
+                animator.SetFloat("X Speed", 1);
+            }
+        else if (IsGrounded() && horizontal == -1f)
+            {
+                animator.SetFloat("X Speed", 1f);
+            }
+
+        if(Keyboard.current.leftArrowKey.wasReleasedThisFrame)
+        {
+            animator.SetFloat("X Speed", 0);
+        }
+        if (Keyboard.current.rightArrowKey.wasReleasedThisFrame)
+        {
+            animator.SetFloat("X Speed", 0);
+        }
+
+        if (Keyboard.current.spaceKey.isPressed)
+        {
+            animator.SetFloat("Y Speed", 1);
+        }
+
+        if(Keyboard.current.spaceKey.isPressed == false)
+        {
+            animator.SetFloat("Y Speed", 0);
+        }
 
         if (Input.GetButtonDown("Jump") && IsGrounded())
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpingPower);
+            
         }
 
         if (Input.GetButtonUp("Jump") && rb.linearVelocity.y > 0f)
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, rb.linearVelocity.y * 0.5f);
+            animator.SetFloat("Y Speed", 1);
         }
 
+
+        if (Keyboard.current.downArrowKey.isPressed && IsGrounded())
+        {
+            animator.SetFloat("Taunt", 1);
+            speed = 0;
+        }
+
+        if (Keyboard.current.downArrowKey.wasReleasedThisFrame && IsGrounded())
+        {
+            animator.SetFloat("Taunt", 0);
+            speed = 8;
+        }            
+            
         Flip();
     }
 
