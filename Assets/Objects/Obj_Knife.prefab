@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4982602182885901711}
   - component: {fileID: 5157056541310109095}
+  - component: {fileID: -8690778099163507429}
   m_Layer: 0
   m_Name: Obj_Knife
   m_TagString: Untagged
@@ -87,3 +88,15 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &-8690778099163507429
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2492357650729276391}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 793b9892192736448879507bc787729c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

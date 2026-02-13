@@ -4,8 +4,9 @@ using UnityEngine;
 
 public class Scr_BarrelController : MonoBehaviour
 {
-
-    public List<Knife> knives = new List<Knife>();
+    public List<Vector3> knivesPos = new List<Vector3>();
+    public List<Quaternion> knivesRot = new List<Quaternion>();
+    public List<GameObject> knives = new List<GameObject>();
     public GameObject objToSpawn;
     public GameObject failStateObj;
 
@@ -13,6 +14,14 @@ public class Scr_BarrelController : MonoBehaviour
     void Start()
     {
         
+
+        for (int i = 0; i < 6; i++)
+        {
+
+            GameObject spawnedObject = Instantiate(objToSpawn, knivesPos[i], knivesRot[i]);
+            knives.Add(spawnedObject);
+        }
+
     }
 
     // Update is called once per frame
@@ -21,10 +30,6 @@ public class Scr_BarrelController : MonoBehaviour
         
     }
 
-    public class Knife
-    {
-        
-    }
 
 
 
