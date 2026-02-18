@@ -22,7 +22,6 @@ public class Scr_Timer : MonoBehaviour
 
         if (timeWaiting > clockDuration)
         {
-            timeWaiting = 0f;
             Debug.Log("Time is up");
         }
 
