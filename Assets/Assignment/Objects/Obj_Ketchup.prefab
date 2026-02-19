@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 7039409489328885714}
   - component: {fileID: 7660542854196908868}
   - component: {fileID: 1352752889502147776}
-  - component: {fileID: -5195620356691834554}
+  - component: {fileID: 1326948550720714047}
   m_Layer: 0
   m_Name: Obj_Ketchup
   m_TagString: Untagged
@@ -108,15 +108,15 @@ Rigidbody2D:
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 64
   m_ExcludeLayers:
     serializedVersion: 2
     m_Bits: 0
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
   m_Constraints: 0
---- !u!114 &-5195620356691834554
+--- !u!114 &1326948550720714047
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -128,3 +128,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 642d04ead9cab8141892691836e983b3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  burgerCheck: {fileID: 0}
