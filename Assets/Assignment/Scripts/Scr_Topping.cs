@@ -6,7 +6,6 @@ public class Scr_Topping : MonoBehaviour
     LayerMask burgerLayer;
     GameObject burgerObject;
     Rigidbody2D disableGravity;
-
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -37,5 +36,10 @@ public class Scr_Topping : MonoBehaviour
             Destroy(gameObject);
         }
 
+    }
+
+    public void killSelf()
+    {
+        Destroy(gameObject);
     }
 }

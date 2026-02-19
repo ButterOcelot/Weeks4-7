@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 1639378145145461131}
   - component: {fileID: 2745536696479115660}
   - component: {fileID: -4895098975905539902}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Obj_Relish
   m_TagString: Untagged
   m_Icon: {fileID: 0}
