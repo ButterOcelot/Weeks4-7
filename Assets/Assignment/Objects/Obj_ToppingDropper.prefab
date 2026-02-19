@@ -100,3 +100,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c4498d9d1b9b2f74fa7507005184ddc8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  objectToSpawn: {fileID: 2662541044515012377, guid: d182f2a1c2fc73645a05c9d83befb853, type: 3}
