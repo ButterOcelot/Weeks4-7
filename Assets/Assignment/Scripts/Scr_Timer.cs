@@ -11,20 +11,20 @@ public class Scr_Timer : MonoBehaviour
     Scr_ToppingDropper squeezeRef;
     private float timeWaiting = 0f;
 
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+
+        //getting references to the squeeze bottle to make sure it can apply it's timer onto the UI timer.
         squeezeRef = squeezeBottle.GetComponent<Scr_ToppingDropper>();
         clockDuration = squeezeRef.waitDuration;
         timerSlider.maxValue = clockDuration;
         timerSlider.value = 0f;
     }
-
-    // Update is called once per frame
+    //put the squeeze bottle's timer onto the slider, which then changes the fill of the clock sprite.
     void Update()
     {
-        Debug.Log(reset);
 
+        //these if statements make sure the clock only visually updates when the bottle is on cooldown.
         reset = squeezeRef.timerBool;
 
         if (reset == true)

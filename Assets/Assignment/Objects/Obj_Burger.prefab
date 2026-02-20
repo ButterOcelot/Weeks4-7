@@ -101,6 +101,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 650275dce6b1f19468124d94f58fdc2d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  plateObject: {fileID: 3958258554821720788, guid: 17ac65008a68e174f94ee7cf6d2a57d8, type: 3}
   topBun: {fileID: 4791739436341019956, guid: 0a6549d2defc0dd40aec86d34944f688, type: 3}
 --- !u!61 &6252785633219395175
 BoxCollider2D:

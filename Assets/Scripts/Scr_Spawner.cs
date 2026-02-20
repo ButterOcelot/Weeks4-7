@@ -2,6 +2,7 @@ using UnityEngine;
 
 public class Scr_Spawner : MonoBehaviour
 {
+    //Holds the topping object.
     public GameObject objectToSpawn;
 
     public float waitDuration;
@@ -13,7 +14,6 @@ public class Scr_Spawner : MonoBehaviour
     float waitProgress = 0f;
     float destroyProgress = 0f;
 
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         
@@ -21,7 +21,6 @@ public class Scr_Spawner : MonoBehaviour
 
     }
 
-    // Update is called once per frame
     void Update()
     {
         waitProgress += Time.deltaTime;
